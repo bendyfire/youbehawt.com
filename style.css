@@ -1,0 +1,73 @@
+p{
+	color:purple; text-align:center ;
+}
+h1{
+	color:purple; text-align:center;
+}
+body{
+	background-color:white;
+	margin:0px;
+}
+img{
+	display:block; margin:auto;
+}
+nav{
+	background-color:purple;
+	position: fixed;
+	width:100%;
+
+}
+nav ul{
+	text-align: center;
+	list-style: none;
+
+
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 25px;
+
+}
+
+
+.special{
+
+	border: 2px solid white;
+}
+.special:hover{
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px;
+	border: 2px solid white;
+	margin: 10px;
+  color: purple;
+	border-radius: 25px;
+	background-color: white;	
+}
+.title{
+	padding-top:100px;
+}
+.homepage{
+	font-size: 30px;
+}
+.pad{
+	padding-bottom: 100px;
+}
+
+.button{
+  height: 100px;
+}
+
+
+
+
+
+
