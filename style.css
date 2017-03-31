@@ -85,4 +85,8 @@ nav ul li a{
 	font-size: 30px;
 	color:#fdb27c;
 }
-
+.bios {
+	font-size:25px;
+	border-right:50px;
+	border-left:50px;
+}
