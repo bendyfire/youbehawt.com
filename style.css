@@ -1,8 +1,8 @@
 p{
-	color:purple; text-align:center ;
+	color:#2d8ae1; text-align:center ;
 }
 h1{
-	color:purple; text-align:center;
+	color:#2d8ae1; text-align:center;
 }
 body{
 	background-color:white;
@@ -12,7 +12,7 @@ img{
 	display:block; margin:auto;
 }
 nav{
-	background-color:purple;
+	background-color: #2d8ae1;
 	position: fixed;
 	width:100%;
 
@@ -63,7 +63,7 @@ nav ul li a{
 }
 
 .button{
-	background-color: purple;
+	background-color: #2d8ae1;
 	width:150px;
 	height:150px;
 	border-radius: 75px;
