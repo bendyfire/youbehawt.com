@@ -90,3 +90,9 @@ nav ul li a{
 	border-left:100px solid white;
 	border-right:100px solid white;
 }
+
+.insta{
+	width:200px;
+	height:200px;
+	position:absolute;
+}
