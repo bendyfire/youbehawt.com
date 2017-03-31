@@ -87,6 +87,6 @@ nav ul li a{
 }
 .bios {
 	font-size:25px;
-	right:50px;
-	border-left:50px;
+	border-left:100px solid white;
+	border-right:100px solid white;
 }
