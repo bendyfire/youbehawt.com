@@ -97,6 +97,6 @@ nav ul li a{
 	position:fixed;
 	background-color:#2d8ae1;
 	border-radius:.25px;
-	border-left:25px;
-	border-bottom:25px;
+	left:25px;
+	bottom:25px;
 }
