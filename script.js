@@ -1,6 +1,6 @@
 
 var img1 = document.getElementById("clickButton");
-var pickuplines = ["Hi, do you speak English? (yes.) Oh, me too.",
+var pickuplines = new Array["Hi, do you speak English? (yes.) Oh, me too.",
 "Excuse me, I seem to have lost my phonenumber, can I get yours?",
 "The owner has asked me to take you out of here. It seems he is very environmentally conscious and you are forcing him to turn up the AC",
 "[panting] Alright, I'm here! Now what were your other two wishes?", 
