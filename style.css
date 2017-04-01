@@ -102,9 +102,9 @@ nav ul li a{
 }
 #bottombar {
     position:fixed;
-    bottom:5px;
+    bottom:15px;
     background-color:#2d8ae1;
-    height:100px;
+    height:40px;
     width:100%;
     padding:15px;
     border: 0px;
