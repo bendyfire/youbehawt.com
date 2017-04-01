@@ -74,6 +74,12 @@ nav ul li a{
 	height:150px;
 	border-radius: 75px;
 }
+.button2{
+	background-color: #fdb27c;
+	width:150px;
+	height:150px;
+	border-radius: 75px;
+}
 
 .hashtags{
 	font-size: 25px;
@@ -109,5 +115,4 @@ nav ul li a{
     padding:15px;
     border: 0px;
     margin: 0px;
-}
 }
