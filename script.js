@@ -1,6 +1,7 @@
 
 var img1 = document.getElementById("clickButton");
-
+var pickuplines = [];
+var jokes = [];
 
 
 img1.addEventListener("mousedown", function buttonClick() {
