@@ -9,4 +9,5 @@ img1.addEventListener("mousedown", function buttonClick() {
 
 img1.addEventListener("mouseup", function buttonClick() {
 	img1.src = "button2.png";
+	alert ("congrats on wasting your time");
 });
