@@ -1,6 +1,6 @@
 
 var img1 = document.getElementById("clickButton");
-var pickuplines = ["Hi, do you speak English? (yes.) Oh, me too.",
+var pickuplines = new Array("Hi, do you speak English? (yes.) Oh, me too.",
 "Excuse me, I seem to have lost my phonenumber, can I get yours?",
 "The owner has asked me to take you out of here. It seems he is very environmentally conscious and you are forcing him to turn up the AC",
 "[panting] Alright, I'm here! Now what were your other two wishes?", 
@@ -19,7 +19,7 @@ var pickuplines = ["Hi, do you speak English? (yes.) Oh, me too.",
 "What time do you have to be back in heaven?", 
 "Would you touch me so I can tell my friends I've been touched by an angel?", 
 "Are you lost? 'Cause it's so strange to see an angel so far from heaven", 
-"My mom told me that life is like a deck of cards, so you must the be queen of hearts"];
+"My mom told me that life is like a deck of cards, so you must the be queen of hearts");
 var jokes = [];
 
 
