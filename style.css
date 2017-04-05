@@ -125,3 +125,8 @@ nav ul li a{
     border: 0px;
     margin: 0px;
 }
+
+.random {
+	background-color:#2d8ae1;
+	border-radius:10;
+}
