@@ -1,5 +1,6 @@
 
 var img1 = document.getElementById("clickButton");
+
 var pickuplines = new Array("Hi, do you speak English? (yes.) Oh, me too.",
 "Excuse me, I seem to have lost my phonenumber, can I get yours?",
 "The owner has asked me to take you out of here. It seems he is very environmentally conscious and you are forcing him to turn up the AC",
@@ -21,14 +22,22 @@ var pickuplines = new Array("Hi, do you speak English? (yes.) Oh, me too.",
 "Would you touch me so I can tell my friends I've been touched by an angel?", 
 "Are you lost? 'Cause it's so strange to see an angel so far from heaven", 
 "My mom told me that life is like a deck of cards, so you must the be queen of hearts");
-var jokes = [];
+
 
 
 img1.addEventListener("mousedown", function buttonClick() {
 	img1.src = "button1.png";
+	document.getElementById("camsux").innerHTML = randomLine(pickuplines);
 });
 
 img1.addEventListener("mouseup", function buttonClick() {
 	img1.src = "button2.png";
 });
 
+function randomLine(lines) {
+	var r = Math.random();
+	r = r * pickuplines.length;
+	r = Math.floor(r);
+	var line = lines[r];
+	return line;
+}
