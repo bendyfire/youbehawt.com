@@ -128,5 +128,6 @@ nav ul li a{
 	border-radius:10;
 	color:solid white;
 	text-align:center;
-	width:2000px;
+	position:absolute;
+	margin-left:100px;
 }
