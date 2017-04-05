@@ -21,7 +21,8 @@ var pickuplines = new Array("Hi, do you speak English? (yes.) Oh, me too.",
 "What time do you have to be back in heaven?", 
 "Would you touch me so I can tell my friends I've been touched by an angel?", 
 "Are you lost? 'Cause it's so strange to see an angel so far from heaven", 
-"My mom told me that life is like a deck of cards, so you must the be queen of hearts");
+"My mom told me that life is like a deck of cards, so you must the be queen of hearts",
+"Im no photographer, but I could picture us together.");
 
 
 
