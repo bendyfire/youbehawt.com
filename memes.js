@@ -29,7 +29,8 @@ var memes = new Array("<img src='memes/meme1.jpg'>",
 "<img src='memes/meme26.jpg'>",
 "<img src='memes/meme27.jpg'>",
 "<img src='memes/meme28.jpg'>",
-"<img src='memes/meme29.jpg'>");
+"<img src='memes/meme29.jpg'>",
+"<img src='memes/meme30.jpg'>");
 
 
 
