@@ -5,12 +5,13 @@ h1{
 	color:#2d8ae1; text-align:center;
 }
 h2{
-	color:#2d8ae1; text-align:center;
-	position:center;
+	color: solid white; 
+  	text-align:center;
+  	background-color:solid white;
+  	border-radius:5px;
 }
 body{
 	background-color:white;
-	margin:0px;
 }
 img{
 	display:block; margin:auto;
@@ -135,7 +136,10 @@ nav ul li a{
 
 .random {
 	background-color:#2d8ae1;
-	border-radius:10px;
-	position:center;
-	width:75%;
+	border-radius:20px;
+	width:50%;
+  color:white;
+  margin: auto;
+  border:20px #2d8ae1; 
 }
+
