@@ -1,8 +1,35 @@
 
 var img1 = document.getElementById("clickButton");
 
-var memes = new Array("<img src='smily.jpg'>",
-	"<img src='smily.jpg'>");
+var memes = new Array("<img src='meme1.jpg'>",
+"<img src='meme2.jpg'>", 
+"<img src='meme3.jpg'>", 
+"<img src='meme5.jpg'>", 
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>",
+"<img src='meme1.jpg'>");
 
 
 
