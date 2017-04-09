@@ -1,7 +1,8 @@
 
 var img1 = document.getElementById("clickButton");
 
-var memes = new Array("");
+var memes = new Array("<img src='smily.jpg'>",
+	"<img src='smily.jpg'>");
 
 
 
@@ -12,7 +13,6 @@ img1.addEventListener("mousedown", function buttonClick() {
 
 img1.addEventListener("mouseup", function buttonClick() {
 	img1.src = "button2.png";
-																																																										alert ("You thought you was goona get memes, but you'll never get me memes!");
 			document.getElementById("camsux").innerHTML = randomLine(memes);
 
 });
