@@ -146,6 +146,6 @@ nav ul li a{
 .memes {
 	height:110px;
 	width:110px;
-	text-align:center;
+	margin:auto;
 	padding-left: 800px;
 }
