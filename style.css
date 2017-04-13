@@ -152,6 +152,7 @@ nav ul li a{
 
 #thanks {
 	position:fixed;
+	margin:auto;
 	font-size: 11px;
 	color: white;
 	width:200px;
