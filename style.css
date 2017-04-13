@@ -153,7 +153,8 @@ nav ul li a{
 	text-align: center;
 	position:fixed;
 	font-size: 11px;
-	color: white;
+	color: solid white;
 	width:100px;
 	margin:auto;
+	bottom:10px;
 }
