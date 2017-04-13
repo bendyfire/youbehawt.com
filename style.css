@@ -148,3 +148,9 @@ nav ul li a{
 	height:400px;
 	margin:auto;
 }
+
+.thanks {
+	text-align: center;
+	font-size: 11px;
+	color: white;
+}
