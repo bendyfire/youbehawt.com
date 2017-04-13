@@ -153,8 +153,8 @@ nav ul li a{
 #thanks {
 	position:fixed;
 	font-size: 11px;
-	color: solid white;
+	color: white;
 	width:200px;
 	margin:auto;
-	bottom:10px;
+	bottom:20px;
 }
