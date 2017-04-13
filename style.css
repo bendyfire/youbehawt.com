@@ -139,9 +139,9 @@ nav ul li a{
 	background-color:#2d8ae1;
 	border-radius:20px;
 	width:50%;
-  color:white;
-  margin: auto;
-  border:20px #2d8ae1; 
+  	color:white;
+  	margin: auto;
+  	border:20px #2d8ae1; 
 }
 
 .memes {
@@ -157,6 +157,6 @@ nav ul li a{
 	width:200px;
 	margin:auto;
 	bottom:25px;
-	left:auto;
-	text-align:center;
+	left:center
+	text-align:center
 }
