@@ -171,3 +171,12 @@ nav ul li a{
 	left:5px;
 	bottom:25px;
 }
+#copyright{
+	position:fixed;
+	font-size: 5px;
+	color: white;
+	width:200px;
+	bottom:25px;
+	text-align: center;
+	right:65px;
+}
