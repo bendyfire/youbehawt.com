@@ -25,12 +25,12 @@ var jokes = ["Don't spell part backwards. It's a trap.",
 
 
 img1.addEventListener("mousedown", function buttonClick() {
-	img1.src = "button1.png";
+	img1.src = "Pics/button1.png";
 	document.getElementById("camsux").innerHTML = randomLine(jokes);
 });
 
 img1.addEventListener("mouseup", function buttonClick() {
-	img1.src = "button2.png";
+	img1.src = "Pics/button2.png";
 });
 
 function randomLine(lines) {
