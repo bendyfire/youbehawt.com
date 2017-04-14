@@ -35,12 +35,12 @@ var memes = new Array("<img src='memes/meme1.jpg'style:height='200px'width='200p
 
 
 img1.addEventListener("mousedown", function buttonClick() {
-	img1.src = "button1.png";
+	img1.src = "Pics/button1.png";
 
 });
 
 img1.addEventListener("mouseup", function buttonClick() {
-	img1.src = "button2.png";
+	img1.src = "Pics/button2.png";
 			document.getElementById("camsux").innerHTML = randomLine(memes);
 
 });
