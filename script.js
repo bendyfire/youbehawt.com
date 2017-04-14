@@ -27,12 +27,12 @@ var pickuplines = new Array("Hi, do you speak English? (yes.) Oh, me too.",
 
 
 img1.addEventListener("mousedown", function buttonClick() {
-	img1.src = "button1.png";
+	img1.src = "Pics/button1.png";
 	document.getElementById("camsux").innerHTML = randomLine(pickuplines);
 });
 
 img1.addEventListener("mouseup", function buttonClick() {
-	img1.src = "button2.png";
+	img1.src = "Pics/button2.png";
 });
 
 function randomLine(lines) {
